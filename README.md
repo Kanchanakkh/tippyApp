@@ -36,7 +36,11 @@ GIF created with [recordit](https://recordit.co/).
 ## Notes
 
 Describe any challenges encountered while building the app.
-
+- Had hard time adjusting to the changes in Xcode
+- A beginner in Swift Language
+- Had to familiarize with a lot of features in Xcode and understood the basic implementations of logic behind those objects that
+  are added onto the main storyboard
+   
 ## License
 
     Copyright 2020 Kanchanak Khat
